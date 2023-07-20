@@ -44,8 +44,7 @@ const Hero: FC = () => {
       <div className={classes["hero__content"]}>
         <Heading type="h1">Hey, My Name is Akash Pal</Heading>
         <p className={classes["hero--description"]}>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores,
-          repellat odio. Totam velit impedit temporibus ea at autem magni .
+          Hi, My Name is Akash Pal I am Frontend Web Developer working in TechChefz Pvt Ltd as an Intern for last 3 Month.
         </p>
         <div className={classes["hero__button"]}>
           <Button

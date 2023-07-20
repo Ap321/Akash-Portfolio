@@ -2,8 +2,8 @@ import { FC } from "react";
 import Heading from "../heading/heading";
 import { Skill } from "../skill/skill";
 
-import classes from "./skills.module.css";
 import { nanoid } from "nanoid";
+import classes from "./skills.module.css";
 
 const skillList = [
   { title: "HTML", id: nanoid() },
